@@ -1,11 +1,11 @@
-````dart
+
 void main() {
   print("cihuy");
   print("cihuy");
   
   String produk ="Parfum wakacaw";
   int stok=10;
-  double harga=250.000;
+  double harga=275.500;
   bool tersedia=true;
   
   print(produk);
@@ -30,4 +30,3 @@ void main() {
   print(customerNote);
   
 }
-````

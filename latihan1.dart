@@ -1,4 +1,3 @@
-
 void main() {
   print("cihuy");
   print("cihuy");
@@ -28,5 +27,14 @@ void main() {
   customerNote = 'Kurang manis';
   customerNote = null;
   print(customerNote);
+  
+  List<String> menuwarteg = [
+    'Ayam Bakar',
+    'Pepes Ikan',
+    'Sayur Asem',
+    'Pecel Sayur',
+    'Ikan Tongkol',
+  ];
+  print(menuwarteg);
   
 }

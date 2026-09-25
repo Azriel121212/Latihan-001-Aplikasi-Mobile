@@ -21,7 +21,7 @@ void main() {
   
   print('$produk sisa $stok porsi dikirim ke $alamat');
   
-  final String kurir = 'GoFood';
+  final String kurir = 'Gofood';
   const int ongkir = 10000;
   print('dikirim pakai $kurir ongkir Rp$ongkir');
   
